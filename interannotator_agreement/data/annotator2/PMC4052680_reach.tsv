@@ -1,0 +1,99 @@
+3	2-26	cellosaurus:CVCL_0045
+3	2-32	cellosaurus:CVCL_0045
+3	17-26	cellosaurus:CVCL_0045
+3	17-32	cellosaurus:CVCL_0045
+3	41-46	
+4	6-46	
+5	3-12	
+5	3-19	
+6	15-20	
+16	6-14	
+16	7-24	
+16	7-26	
+27	3-12	taxonomy:10116
+29	1-18	uaz:CL:0000359
+29	3-18	uaz:CL:0000359
+29	13-18	uaz:CL:0000359
+41	5-8	
+68	0-2	
+68	0-4	
+71	0-2	
+96	3-8	
+96	8-10	
+104	1-5	
+104	1-13	
+113	11-13	
+114	1-3	
+116	7-13	
+117	8-9	
+117	27-34	
+117	27-36	
+117	32-34	
+117	32-36	
+118	40-41	
+121	8-14	
+123	0-5	
+124	17-20	
+126	13-18	
+128	7-14	taxonomy:9606
+129	27-33	
+132	12-15	
+132	21-24	
+135	10-11	
+136	15-19	
+143	15-30	cellosaurus:CVCL_0045
+143	15-31	cellosaurus:CVCL_0045
+145	3-9	cellosaurus:CVCL_0045
+145	6-9	cellosaurus:CVCL_0045
+152	4-13	
+155	0-16	
+155	6-16	
+157	3-8	cellosaurus:CVCL_1220,tissuelist:TS-0614
+162	5-16	
+164	2-11	cellosaurus:CVCL_1169,tissuelist:TS-0417
+164	4-11	cellosaurus:CVCL_1169,tissuelist:TS-0417
+164	6-11	cellosaurus:CVCL_1169,tissuelist:TS-0417
+165	8-13	uaz:CVCL_9115,uaz:CL:2000042,taxonomy:10090
+165	8-15	uaz:CVCL_9115,uaz:CL:2000042,taxonomy:10090
+165	8-18	uaz:CVCL_9115,uaz:CL:2000042,taxonomy:10090
+170	3-7	
+171	7-13	
+171	11-13	
+174	4-19	cellosaurus:CVCL_1169
+174	4-23	cellosaurus:CVCL_1169
+174	12-19	cellosaurus:CVCL_1169
+174	14-23	cellosaurus:CVCL_1169
+175	15-20	
+175	15-23	
+177	17-26	cellosaurus:CVCL_0419,tissuelist:TS-0591,cellosaurus:CVCL_2219,tissuelist:TS-0417
+177	19-30	cellosaurus:CVCL_0419,tissuelist:TS-0591,cellosaurus:CVCL_2219,tissuelist:TS-0417
+177	37-41	cellosaurus:CVCL_0419,tissuelist:TS-0591,cellosaurus:CVCL_2219,tissuelist:TS-0417
+190	26-29	
+190	26-32	
+192	6-18	
+194	7-13	taxonomy:10116
+194	7-40	taxonomy:10116
+198	32-33	
+199	13-14	
+200	114-116	cellosaurus:CVCL_0045
+203	37-39	
+206	2-17	
+208	17-24	taxonomy:9606
+211	16-22	cellosaurus:CVCL_0045
+214	18-26	cellosaurus:CVCL_1220
+214	18-29	cellosaurus:CVCL_1220
+216	5-7	
+216	5-20	
+216	5-23	
+216	5-25	
+220	10-29	taxonomy:9606
+220	24-29	taxonomy:9606
+225	17-21	cellosaurus:CVCL_0336
+225	17-27	cellosaurus:CVCL_0336
+229	32-35	
+235	9-15	taxonomy:10116
+237	10-15	
+238	1-6	
+238	1-10	
+242	26-27	taxonomy:9606
+243	10-11	taxonomy:9606

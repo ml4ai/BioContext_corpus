@@ -1,0 +1,482 @@
+atcc:CRL-2522	BJ
+cellosaurus:CVCL_0004	K562
+cellosaurus:CVCL_0006	THP-1
+cellosaurus:CVCL_0008	Daudi
+cellosaurus:CVCL_0013	MOLT-4
+cellosaurus:CVCL_0021	U251
+cellosaurus:CVCL_0022	U-87, U87-MG
+cellosaurus:CVCL_0023	A549
+cellosaurus:CVCL_0025	Caco-2
+cellosaurus:CVCL_0030	HeLa
+cellosaurus:CVCL_0031	MCF-7
+cellosaurus:CVCL_0033	Sk-Br-3, SK-Br-3
+cellosaurus:CVCL_0045	HEK-293
+cellosaurus:CVCL_0060	H1299
+cellosaurus:CVCL_0062	MDA231, MDA-MB-231
+cellosaurus:CVCL_0063	293T, HEK293T
+cellosaurus:CVCL_0065	Jurkat
+cellosaurus:CVCL_0097	Simon
+cellosaurus:CVCL_0132	A375
+cellosaurus:CVCL_0152	AsPC-1
+cellosaurus:CVCL_0186	BxPC-3
+cellosaurus:CVCL_0237	Capan-1
+cellosaurus:CVCL_0291	HCT-116
+cellosaurus:CVCL_0336	Huh-7
+cellosaurus:CVCL_0347	IMR90, IMR-90
+cellosaurus:CVCL_0374	KG1
+cellosaurus:CVCL_0379	KU812
+cellosaurus:CVCL_0395	LnCaP
+cellosaurus:CVCL_0417	MDA435
+cellosaurus:CVCL_0419	MDA-MB-468
+cellosaurus:CVCL_0428	Mia PaCa-2, MIA PaCa-2
+cellosaurus:CVCL_0440	MRC-5
+cellosaurus:CVCL_0459	NCI-H460
+cellosaurus:CVCL_0480	PANC-1, Panc-1
+cellosaurus:CVCL_0511	Raji
+cellosaurus:CVCL_0526	SKMEL28
+cellosaurus:CVCL_0527	SKMEL5
+cellosaurus:CVCL_0531	SK-N-SH
+cellosaurus:CVCL_0559	TF-1
+cellosaurus:CVCL_0579	WI-38
+cellosaurus:CVCL_0597	Ramos
+cellosaurus:CVCL_0598	MCF10A
+cellosaurus:CVCL_0B77	WM3702
+cellosaurus:CVCL_0G09	Oda
+cellosaurus:CVCL_1130	COLO-679
+cellosaurus:CVCL_1169	DBTRG-05MG
+cellosaurus:CVCL_1220	G361
+cellosaurus:CVCL_1229	GCT
+cellosaurus:CVCL_1234	Goto
+cellosaurus:CVCL_1348	KYSE150
+cellosaurus:CVCL_1354	KYSE510
+cellosaurus:CVCL_1362	L54
+cellosaurus:CVCL_1438	Malme 3M
+cellosaurus:CVCL_1666	RPMI-7951
+cellosaurus:CVCL_1967	blue
+cellosaurus:CVCL_1Q82	M-TAT
+cellosaurus:CVCL_1R15	case
+cellosaurus:CVCL_2219	U373-MG
+cellosaurus:CVCL_2279	1B
+cellosaurus:CVCL_2529	Ishikawa
+cellosaurus:CVCL_2614	UV
+cellosaurus:CVCL_2758	WI-26
+cellosaurus:CVCL_3088	OUMS-23
+cellosaurus:CVCL_3495	CA-HPV-10
+cellosaurus:CVCL_3502	D1
+cellosaurus:CVCL_3540	WT
+cellosaurus:CVCL_3772	peak
+cellosaurus:CVCL_4069	Eol-3
+cellosaurus:CVCL_4W74	RTK
+cellosaurus:CVCL_5652	DX 2
+cellosaurus:CVCL_6357	WM451lu
+cellosaurus:CVCL_6C15	human intestinal epithelial cell
+cellosaurus:CVCL_6G79	GM09812
+cellosaurus:CVCL_7954	Etn1
+cellosaurus:CVCL_7955	focus
+cellosaurus:CVCL_9502	XPA-1
+cellosaurus:CVCL_9771	h1, H1
+cellosaurus:CVCL_AP78	WM3682
+cellosaurus:CVCL_C271	WM3130
+cellosaurus:CVCL_C275	WM3629
+cellosaurus:CVCL_C716	cm 2
+cellosaurus:CVCL_C795	B4
+cellosaurus:CVCL_D569	CAG
+cellosaurus:CVCL_D880	Fuji
+cellosaurus:CVCL_D946	Alameda
+cellosaurus:CVCL_E012	patches
+cellosaurus:CVCL_E031	Center, center
+cellosaurus:CVCL_E481	BH1
+cellosaurus:CVCL_E508	CML
+cellosaurus:CVCL_E702	Hokkaido
+cellosaurus:CVCL_E718	JS
+cellosaurus:CVCL_E751	LB
+cellosaurus:CVCL_E867	Watanabe
+cellosaurus:CVCL_F568	BD
+cellosaurus:CVCL_H526	mL 3
+cellosaurus:CVCL_H943	D17
+cellosaurus:CVCL_M260	M15
+cellosaurus:CVCL_M383	SH3
+cellosaurus:CVCL_M648	GO
+cellosaurus:CVCL_R861	J14
+cellosaurus:CVCL_S979	PC12
+cellosaurus:CVCL_U802	BL
+cellosaurus:CVCL_V575	AT2SF
+cellosaurus:CVCL_W288	HMG
+cellosaurus:CVCL_W397	Smith
+cellosaurus:CVCL_X211	HC-3
+cellosaurus:CVCL_Y039	D13
+cellosaurus:CVCL_Y434	JB
+go:GO:0000805	X chromosomes
+go:GO:0000922	spindle pole, spindle poles
+go:GO:0001725	Stress fibers, stress fibers
+go:GO:0001726	ruffles
+go:GO:0005604	basement membrane
+go:GO:0005615	extracellular space
+go:GO:0005634	nucleus
+go:GO:0005694	chromosome, chromosomes
+go:GO:0005737	cytoplasm
+go:GO:0005741	mitochondrial outer membrane
+go:GO:0005764	lysosomes
+go:GO:0005768	endosome, endosomes
+go:GO:0005769	early endosome
+go:GO:0005783	endoplasmic reticulum
+go:GO:0005789	endoplasmic reticulum membrane
+go:GO:0005813	centrosomes
+go:GO:0005829	cytosol
+go:GO:0005856	cytoskeleton
+go:GO:0005886	plasma membrane, plasma membranes
+go:GO:0005887	integral component of plasma membrane
+go:GO:0005911	cell-cell junctions
+go:GO:0005912	adherens junctions, adherens junction
+go:GO:0005925	focal adhesions, focal adhesion
+go:GO:0009986	cell surface, Cell surface, Cell Surface
+go:GO:0015629	actin cytoskeleton
+go:GO:0016020	membranes, Membranes, membrane
+go:GO:0018995	host
+go:GO:0019031	viral envelope
+go:GO:0019867	outer membrane
+go:GO:0030054	cell junctions
+go:GO:0030175	filopodium
+go:GO:0030424	axon, Axon, axons
+go:GO:0030426	growth cones, growth cone
+go:GO:0031012	extracellular matrix
+go:GO:0031982	vesicles, vesicle
+go:GO:0043226	organelle, organelles
+go:GO:0043657	host cell, host cells
+go:GO:0044215	other organisms
+go:GO:0044289	contact site, contact sites
+go:GO:0044295	axonal growth cone
+go:GO:0044297	cell body
+go:GO:0044393	microspike, Microspike, microspikes
+go:GO:0071944	cell periphery
+go:GO:0072686	mitotic spindle
+go:GO:0097431	mitotic spindle poles
+go:GO:0098687	chromosomal region
+manual:asthma	asthma
+manual:atherosclerosis	atherosclerosis
+manual:bacterial	bacterial
+manual:B-RAF-V600E	B-RAF V600E
+manual:colorectal-cancers	colorectal cancers
+manual:corneal-epithelial	corneal epithelial
+manual:COS7	COS7
+manual:Cos7-cells	Cos7 cells
+manual:COS-7-cells	COS-7 cells
+manual:cytoplasmic	cytoplasmic
+manual:Drosophila	Drosophila
+manual:EBPbeta1	EBPbeta1
+manual:EBPbeta1-cells	EBPbeta1 cells
+manual:EBPbeta2-cells	EBPbeta2 cells
+manual:EC1	EC1
+manual:EC109	EC109
+manual:E-coli	E coli
+manual:E.-coli	E. coli
+manual:eggs	eggs
+manual:Gab1--/--cells	Gab1 -/- cells
+manual:gastric-cancers	gastric cancers
+manual:H3924A-cell-line	H3924A cell line
+manual:H7795-line	H7795 line
+manual:HCA2-cells	HCA2 cells
+manual:HCA2-GSE22	HCA2-GSE22
+manual:HCE-cells	HCE cells
+manual:HEK	HEK
+manual:HNSCC-cells	HNSCC cells
+manual:HNSCC-tumor	HNSCC tumor
+manual:insect-cells	insect cells
+manual:intestinal	intestinal
+manual:kidneys	kidneys
+manual:mammalian	mammalian
+manual:MCF10A-C	MCF10A-C
+manual:MCF10A-Ras	MCF10A-Ras
+manual:MCF10A-Ras-C	MCF10A-Ras-C
+manual:MDA231-C	MDA231-C
+manual:MDA435-C	MDA435-C
+manual:MDCK-cells	MDCK cells
+manual:meniginomas	meniginomas
+manual:meningiomas	meningiomas
+manual:mitochondria	mitochondria
+manual:Mitochondria	Mitochondria
+manual:murine	murine
+manual:N1E-115-cells	N1E-115 cells
+manual:NE3	NE3
+manual:neural-tissues	neural tissues
+manual:neurite	neurite
+manual:neuronal	neuronal
+manual:NIH-3T3	NIH-3T3
+manual:NIH-3T3-cells	NIH-3T3 cells
+manual:nuclei	nuclei
+manual:pancreatic	pancreatic
+manual:pancreatic-beta-cells	pancreatic beta-cells
+manual:pancreatic-ductal-adenocarcinoma	pancreatic ductal adenocarcinoma
+manual:patients	patients
+manual:PBL	PBL
+manual:phagocytic-cells	phagocytic cells
+manual:porcine	porcine
+manual:primary-A-T-cells	primary A-T cells
+manual:rad53-cells	rad53 cells
+manual:rat	rat
+manual:RAW264	RAW264
+manual:rheumatoid-arthritis	rheumatoid arthritis
+manual:SHEE	SHEE
+manual:stomach	stomach
+manual:Swiss-3T3-cells	Swiss 3T3 cells
+manual:systemic-lupus-erythematosus	systemic lupus erythematosus
+manual:testicular	testicular
+manual:uterine	uterine
+manual:WI-38-Ras-cells	WI-38-Ras cells
+taxonomy:10090	mouse, mice, nude mice, transgenic mice, Mice, Mouse
+taxonomy:10116	rats
+taxonomy:10376	Epstein-Barr virus
+taxonomy:103820	GAG
+taxonomy:10469	baculovirus
+taxonomy:10566	human papillomavirus
+taxonomy:10633	SV40
+taxonomy:11103	hepatitis C
+taxonomy:12721	HIV, human immunodeficiency virus
+taxonomy:302767	comets, comet
+taxonomy:31931	retrovirus
+taxonomy:4097	tobacco
+taxonomy:4932	Yeast, yeast
+taxonomy:59837	spots, spot
+taxonomy:6239	Caenorhabditis elegans, C. elegans, nematodes
+taxonomy:76720	Fisher
+taxonomy:7955	zebrafish
+taxonomy:9031	Chicken, chicken
+taxonomy:9606	human, humans, patient, Patient, children, Human, people
+taxonomy:9793	Donkey, donkey
+taxonomy:9796	horse
+taxonomy:9913	Bovine
+taxonomy:9940	sheep
+taxonomy:9986	rabbit, rabbits
+tissuelist:TS-0061	astrocytoma
+tissuelist:TS-0067	B-cell lymphoma
+tissuelist:TS-0068	B cell
+tissuelist:TS-0073	basophil
+tissuelist:TS-0088	bone
+tissuelist:TS-0094	brain tumor
+tissuelist:TS-0095	brain, Brain, cerebrum
+tissuelist:TS-0114	carcinoma, Carcinoma
+tissuelist:TS-0125	cerebellum
+tissuelist:TS-0136	HeLa cells
+tissuelist:TS-0150	central nervous system
+tissuelist:TS-0158	colon, Colon
+tissuelist:TS-0160	colorectal cancer, colon cancer, Colorectal cancer
+tissuelist:TS-0161	colon carcinoma, Colorectal Carcinoma, colorectal carcinoma
+tissuelist:TS-0164	colon mucosa
+tissuelist:TS-0180	corpus callosum
+tissuelist:TS-0199	diencephalon
+tissuelist:TS-0202	distal colon
+tissuelist:TS-0219	egg white
+tissuelist:TS-0221	egg
+tissuelist:TS-0249	Embryonic Kidney, embryonic kidney
+tissuelist:TS-0278	endothelial cell, endothelial cells
+tissuelist:TS-0283	epidermis
+tissuelist:TS-0288	epithelial cell
+tissuelist:TS-0290	RBC
+tissuelist:TS-0309	eye
+tissuelist:TS-0362	fibroblasts
+tissuelist:TS-0400	gastric carcinoma
+tissuelist:TS-0416	glioma, glioma cell, Glioma
+tissuelist:TS-0417	glioblastoma, Glioblastoma
+tissuelist:TS-0445	heart
+tissuelist:TS-0448	hematopoietic stem cell
+tissuelist:TS-0454	hepatocytes
+tissuelist:TS-0455	hepatocellular carcinoma, hepatoma
+tissuelist:TS-0472	ileum
+tissuelist:TS-0473	imaginal disc
+tissuelist:TS-0487	intestinal epithelium
+tissuelist:TS-0510	Kidney, kidney
+tissuelist:TS-0545	lens
+tissuelist:TS-0547	leukemia
+tissuelist:TS-0549	leukocyte
+tissuelist:TS-0564	liver
+tissuelist:TS-0568	lung
+tissuelist:TS-0569	lung adenocarcinoma
+tissuelist:TS-0571	Lung Cancer, lung cancer
+tissuelist:TS-0572	lung carcinoma
+tissuelist:TS-0579	lymph node
+tissuelist:TS-0585	lymphoma
+tissuelist:TS-0587	Macrophage, macrophage
+tissuelist:TS-0591	breast cancer
+tissuelist:TS-0592	breast carcinoma, mammary adenocarcinoma, breast adenocarcinoma
+tissuelist:TS-0593	mammary epithelial cell
+tissuelist:TS-0595	breast, Breast, mammary gland
+tissuelist:TS-0597	breast tumor
+tissuelist:TS-0600	mantle
+tissuelist:TS-0603	mast cell
+tissuelist:TS-0607	medulla oblongata
+tissuelist:TS-0614	melanoma, malignant melanoma
+tissuelist:TS-0636	milk
+tissuelist:TS-0647	myeloid cell
+tissuelist:TS-0650	myoblast
+tissuelist:TS-0652	myometrium
+tissuelist:TS-0665	needle
+tissuelist:TS-0676	neural crest
+tissuelist:TS-0681	neuroblastoma
+tissuelist:TS-0683	neuronal cell, neural cell
+tissuelist:TS-0711	oocyte
+tissuelist:TS-0725	Cho, CHO
+tissuelist:TS-0730	ovary
+tissuelist:TS-0736	pancreas
+tissuelist:TS-0739	pancreatic cancer, PANCREATIC CANCER, Pancreatic cancer, Pancreatic Cancer
+tissuelist:TS-0742	pancreatic tumor
+tissuelist:TS-0773	peritoneal cavity
+tissuelist:TS-0774	peritoneal exudate
+tissuelist:TS-0799	placenta
+tissuelist:TS-0803	platelet
+tissuelist:TS-0828	prostate
+tissuelist:TS-0842	pupae
+tissuelist:TS-0858	regenerating liver
+tissuelist:TS-0859	renal cell carcinoma
+tissuelist:TS-0883	root
+tissuelist:TS-0895	scale
+tissuelist:TS-0904	scutellum
+tissuelist:TS-0910	seed
+tissuelist:TS-0923	Serum, serum
+tissuelist:TS-0925	shell
+tissuelist:TS-0933	skeletal muscle
+tissuelist:TS-0934	skin
+tissuelist:TS-0942	small intestine
+tissuelist:TS-0949	sperm
+tissuelist:TS-0956	spleen
+tissuelist:TS-0978	gastric cancer
+tissuelist:TS-1001	T cell, T  cell, T Cell
+tissuelist:TS-1006	tail
+tissuelist:TS-1030	testis
+tissuelist:TS-1039	thorax
+tissuelist:TS-1043	thymus
+tissuelist:TS-1047	thyroid
+tissuelist:TS-1090	bladder
+tissuelist:TS-1102	uterus
+tissuelist:TS-1122	wing
+tissuelist:TS-1153	oligodendroglioma
+tissuelist:TS-1168	vulva
+tissuelist:TS-1210	Ink
+tissuelist:TS-1221	cervical cancer, cervix cancer
+tissuelist:TS-1222	endometrial cancer
+tissuelist:TS-1223	ovarian cancer, ovary cancer
+tissuelist:TS-1224	prostate cancer
+tissuelist:TS-1227	skin cancer, Skin cancer
+tissuelist:TS-1228	testicular cancer
+tissuelist:TS-1249	squamous cell
+tissuelist:TS-1250	Esophageal Squamous Cell, Esophageal squamous cell
+tissuelist:TS-1313	nervous system
+uaz:CL:0000010	cultured cell, Cultured cells
+uaz:CL:0000019	sperms
+uaz:CL:0000023	oocytes
+uaz:CL:0000034	stem cell, stem cells
+uaz:CL:0000037	HSCs, hematopoietic stem cells
+uaz:CL:0000047	neural stem cells
+uaz:CL:0000056	myoblasts
+uaz:CL:0000066	epithelial cells, Epithelial cells
+uaz:CL:0000084	T cells
+uaz:CL:0000097	mast cells, Mast cells
+uaz:CL:0000127	astrocytes
+uaz:CL:0000148	melanocytes
+uaz:CL:0000165	neuroendocrine cells
+uaz:CL:0000232	red blood cells
+uaz:CL:0000235	macrophages, Macrophages
+uaz:CL:0000236	B cells
+uaz:CL:0000255	Eukaryotic cell, eukaryotic cells
+uaz:CL:0000359	vascular smooth muscle cells
+uaz:CL:0000365	zygote
+uaz:CL:0000451	dendritic cells
+uaz:CL:0000453	Langerhans cells
+uaz:CL:0000504	ECL
+uaz:CL:0000540	neurons
+uaz:CL:0000542	lymphocytes
+uaz:CL:0000546	T-helper 2 cell
+uaz:CL:0000622	acinar cells
+uaz:CL:0000646	basal cell
+uaz:CL:0000738	leukocytes, immune cells
+uaz:CL:0000746	cardiomyocytes
+uaz:CL:0000763	myeloid cells
+uaz:CL:0000767	basophils
+uaz:CL:0000771	eosinophils
+uaz:CL:0000775	neutrophils
+uaz:CL:0000784	plasmacytoid dendritic cells
+uaz:CL:0000785	mature B cells
+uaz:CL:0000849	crypt cells
+uaz:CL:0000861	elicited macrophages
+uaz:CL:0000988	hematopoietic cells, hematopoietic cell
+uaz:CL:0002092	bone marrow cells
+uaz:CL:0002319	neural cells
+uaz:CL:0002322	Embryonic stem cells
+uaz:CL:0002327	Mammary Epithelial Cells, mammary epithelial cells
+uaz:CL:0002328	Bronchial Epithelial Cells
+uaz:CL:0002563	intestinal epithelial cells
+uaz:CL:0002608	hippocampal neurons
+uaz:CL:0002609	cortical neurons
+uaz:CL:0011115	precursor cells
+uaz:CL:1000497	kidney cell
+uaz:CL:1001608	foreskin fibroblasts
+uaz:CL:2000042	embryonic fibroblasts
+uaz:CVCL_0047	time
+uaz:CVCL_0598	MCF10As
+uaz:CVCL_1870	MECs
+uaz:CVCL_9115	MEFs
+uaz:UA-CLine-100047	SLP-76
+uaz:UA-CLine-100087	HDFs, WI-38 normal HDFs
+uaz:UA-CLine-100096	M307
+uaz:UA-CLine-100111	Shp2 -/- cells
+uaz:UA-CLine-5317	GBM
+uaz:UA-CLine-888	WI-38 fibroblasts
+uaz:UA-ORG-623	neuronal growth cone
+uaz:UBERON:0000104	
+uaz:UBERON:0000105	
+uaz:UBERON:0000468	
+uaz:UBERON:0000479	
+uaz:UBERON:0001130	
+uaz:UBERON:0001423	
+uaz:UBERON:0002390	
+uaz:UBERON:0002405	
+uaz:UBERON:0002488	
+uaz:UBERON:0005515	
+uaz:UBERON:0006611	
+uaz:UBERON:2000106	
+uaz:UBERON:3010324	
+uaz:UBERON:3010752	
+uberon:UBERON:0000069	larval stage
+uberon:UBERON:0000104	Life, life, lifespan
+uberon:UBERON:0000105	stage
+uberon:UBERON:0000180	flank
+uberon:UBERON:0000344	mucosa
+uberon:UBERON:0000353	parenchyma
+uberon:UBERON:0000468	animal, organism, multicellular organism, whole organism
+uberon:UBERON:0000479	tissue, Tissue
+uberon:UBERON:0000483	epithelial tissue
+uberon:UBERON:0001130	backbone
+uberon:UBERON:0001423	radius
+uberon:UBERON:0001443	chest
+uberon:UBERON:0001461	elbow
+uberon:UBERON:0001555	alimentary tract
+uberon:UBERON:0001781	retinal neurons
+uberon:UBERON:0001869	cerebral hemisphere
+uberon:UBERON:0002020	grey matter
+uberon:UBERON:0002049	vasculature
+uberon:UBERON:0002103	hindlimb
+uberon:UBERON:0002316	white matter
+uberon:UBERON:0002385	muscle tissue
+uberon:UBERON:0002390	hematopoietic system
+uberon:UBERON:0002405	immune system, Immune System
+uberon:UBERON:0002488	helix, Helix
+uberon:UBERON:0003891	stroma
+uberon:UBERON:0004529	ridges
+uberon:UBERON:0005515	R5
+uberon:UBERON:0006099	BA1
+uberon:UBERON:0006611	test
+uberon:UBERON:0007023	adults
+uberon:UBERON:0008915	pore
+uberon:UBERON:0008971	left colon
+uberon:UBERON:0008972	right colon
+uberon:UBERON:0018656	puparium
+uberon:UBERON:2000106	extension
+uberon:UBERON:2001840	tips
+uberon:UBERON:2005088	PMA
+uberon:UBERON:3010324	fertilized egg
+uberon:UBERON:3010752	lobe
+uniprot:SL-0039	cell membrane
+uniprot:SL-0047	centromeres, centromere
+uniprot:SL-0149	kinetochores
+uniprot:SL-0265	tight junctions, tight junction
+uniprot:SL-0276	telomeres, telomere
+uniprot:SL-0487	target cells

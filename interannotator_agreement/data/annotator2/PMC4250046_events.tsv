@@ -1,0 +1,16 @@
+1	5-41	tissuelist:TS-1250
+14	13-19	taxonomy:9606
+15	6-10	tissuelist:TS-1250,taxonomy:9606
+16	69-78	manual:EC109,manual:EC1,taxonomy:9606
+75	17-43	manual:EC109,tissuelist:TS-1250,manual:EC1,taxonomy:9606
+78	5-27	cellosaurus:CVCL_1354,taxonomy:9606,manual:NE3,cellosaurus:CVCL_1348,manual:SHEE,tissuelist:TS-1250
+85	0-27	tissuelist:TS-1250,cellosaurus:CVCL_1354,taxonomy:9606,cellosaurus:CVCL_1348
+87	21-36	tissuelist:TS-1250,cellosaurus:CVCL_1354,taxonomy:9606,cellosaurus:CVCL_1348
+112	0-19	
+116	8-54	manual:EC109,tissuelist:TS-1250,manual:EC1,taxonomy:9606
+121	13-31	tissuelist:TS-1250,taxonomy:9606
+127	18-21	
+136	0-19	taxonomy:9606
+143	1-13	
+144	0-11	
+145	0-21	

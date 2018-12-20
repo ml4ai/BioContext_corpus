@@ -1,0 +1,25 @@
+24	17-34	manual:Mitochondria
+44	10-19	manual:phagocytic-cells
+44	13-19	manual:phagocytic-cells
+46	0-2	go:GO:0016020,manual:phagocytic-cells
+46	0-10	go:GO:0016020,manual:phagocytic-cells
+79	9-12	tissuelist:TS-0445
+81	10-23	tissuelist:TS-0445
+81	19-23	
+87	19-27	tissuelist:TS-0445
+96	4-7	uaz:CL:0000034
+97	0-3	uaz:CL:0000034
+97	9-11	uaz:CL:0000034
+98	9-13	uaz:CL:0000034
+104	3-18	taxonomy:4932
+104	3-26	taxonomy:4932
+104	3-35	taxonomy:4932
+104	6-18	taxonomy:4932
+104	6-26	taxonomy:4932
+104	6-35	taxonomy:4932
+105	6-13	taxonomy:4932
+109	19-27	
+141	14-16	taxonomy:9606,manual:pancreatic-beta-cells
+142	8-11	taxonomy:9606,manual:pancreatic-beta-cells
+142	8-19	taxonomy:9606,manual:pancreatic-beta-cells
+146	1-9	taxonomy:10090

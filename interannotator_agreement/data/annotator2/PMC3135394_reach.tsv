@@ -1,0 +1,25 @@
+24	17-34	manual:Mitochondria
+44	10-19	go:GO:0016020
+44	13-19	go:GO:0016020
+46	0-2	go:GO:0016020
+46	0-10	go:GO:0016020
+79	9-12	
+81	10-23	
+81	19-23	
+87	19-27	tissuelist:TS-0445
+96	4-7	manual:cytoplasmic
+97	0-3	
+97	9-11	
+98	9-13	
+104	3-18	manual:mammalian
+104	3-26	manual:mammalian
+104	3-35	manual:mammalian
+104	6-18	manual:mammalian
+104	6-26	manual:mammalian
+104	6-35	manual:mammalian
+105	6-13	manual:mammalian
+109	19-27	
+141	14-16	manual:pancreatic-beta-cells
+142	8-11	
+142	8-19	go:GO:0009986
+146	1-9	taxonomy:10090

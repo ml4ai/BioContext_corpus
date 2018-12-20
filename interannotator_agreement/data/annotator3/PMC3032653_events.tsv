@@ -1,0 +1,71 @@
+0	0-15	
+1	0-12	tissuelist:TS-0288
+1	19-35	
+4	4-25	uniprot:SL-0265
+5	0-26	go:GO:0005911
+6	0-18	
+7	0-43	
+11	0-44	go:GO:0030054,uaz:CL:0000066
+12	0-27	go:GO:0005912
+13	0-46	uniprot:SL-0265
+14	0-7	
+15	1-11	uniprot:SL-0265
+19	0-31	uniprot:SL-0265
+20	0-17	
+21	2-20	manual:HCE
+23	2-45	cellosaurus:CVCL_0025
+25	2-13	manual:HCE,uniprot:SL-0265
+26	0-17	uniprot:SL-0265
+27	0-11	
+30	0-17	cellosaurus:CVCL_0025
+32	0-39	cellosaurus:CVCL_0025
+35	2-16	
+38	9-18	
+39	0-21	
+40	0-20	
+44	0-25	tissuelist:TS-0288,cellosaurus:CVCL_0025,manual:MDCK
+45	1-26	manual:lumens
+48	11-18	go:GO:0005911
+51	18-29	manual:HCE,go:GO:0030054,cellosaurus:CVCL_0025
+52	3-24	
+55	0-13	
+56	0-30	go:GO:0030054
+58	0-24	go:GO:0030054
+61	4-42	go:GO:0005911
+62	1-21	
+65	0-15	
+66	2-16	
+67	2-18	go:GO:0030054,manual:MDCK
+68	0-20	
+70	1-13	
+71	2-34	manual:HCE,manual:MDCK
+72	0-11	
+73	4-16	go:GO:0030054
+75	0-10	
+76	0-24	uniprot:SL-0265
+78	0-4	
+80	3-13	
+82	11-19	
+84	0-8	uniprot:SL-0265
+85	0-40	manual:HCE,uniprot:SL-0265,go:GO:0005912
+86	0-20	
+87	0-15	
+88	2-27	manual:HCE,go:GO:0030054,cellosaurus:CVCL_0025
+89	0-19	go:GO:0030054
+90	4-21	go:GO:0030054
+91	0-13	go:GO:0030054
+92	0-20	
+93	0-15	
+94	0-12	uaz:CL:0000066
+95	6-28	
+96	2-54	go:GO:0030054
+97	0-27	
+98	9-21	
+99	0-8	
+100	0-31	
+101	0-11	
+102	4-21	
+102	28-49	
+104	0-18	
+106	0-5	
+107	5-23	

@@ -1,0 +1,110 @@
+15	16-23	
+66	1-19	taxonomy:9606
+70	0-11	
+71	2-11	
+72	0-20	
+73	5-5	
+73	7-7	
+73	14-15	
+73	20-29	uaz:UA-CLine-5317,taxonomy:9606
+75	7-11	uaz:UA-CLine-5317,taxonomy:9606
+76	2-28	
+79	6-12	
+80	15-60	
+83	0-14	uniprot:SL-0039
+84	0-6	go:GO:0016020
+85	0-19	go:GO:0005634
+87	2-6	cellosaurus:CVCL_0022
+89	0-15	
+90	2-9	
+95	7-10	
+96	0-34	
+97	1-21	
+98	8-18	tissuelist:TS-0416
+99	13-19	
+100	2-14	
+101	3-22	tissuelist:TS-0416
+111	0-14	
+112	2-22	
+113	1-28	
+114	1-39	
+116	7-27	
+129	6-16	tissuelist:TS-0416
+131	2-12	tissuelist:TS-0416
+132	0-17	tissuelist:TS-0095
+141	2-35	tissuelist:TS-0095
+149	4-22	
+150	0-10	tissuelist:TS-0571,tissuelist:TS-0591
+150	18-33	tissuelist:TS-0571,tissuelist:TS-0614,tissuelist:TS-0591
+151	3-33	tissuelist:TS-0592,tissuelist:TS-0614
+152	0-19	tissuelist:TS-0278
+154	0-10	tissuelist:TS-1224
+156	0-16	tissuelist:TS-0592,tissuelist:TS-0278
+159	6-10	tissuelist:TS-0278
+161	4-7	
+163	11-31	tissuelist:TS-0739
+165	0-21	
+166	17-24	
+169	0-25	
+171	0-11	
+171	18-29	tissuelist:TS-0400
+172	6-19	
+176	14-29	taxonomy:9606
+184	3-29	uaz:UA-CLine-5317,taxonomy:9606
+186	7-13	
+188	10-20	tissuelist:TS-0416
+191	3-22	cellosaurus:CVCL_0021,tissuelist:TS-0416,taxonomy:9606
+192	2-20	tissuelist:TS-0416,taxonomy:9606
+194	8-16	tissuelist:TS-0417,taxonomy:9606
+198	1-16	tissuelist:TS-0416,taxonomy:9606
+199	8-9	
+204	3-10	tissuelist:TS-0571,tissuelist:TS-0591
+205	0-9	tissuelist:TS-0417
+207	8-42	
+211	0-12	
+212	0-20	
+213	0-8	
+214	1-13	uaz:CL:0000540
+214	30-65	tissuelist:TS-0417
+215	7-14	tissuelist:TS-0416
+216	12-28	tissuelist:TS-0417
+219	0-26	
+220	3-14	
+222	0-17	
+223	9-17	tissuelist:TS-0416
+224	5-14	
+226	6-32	
+227	0-15	
+228	2-24	
+229	3-14	
+231	8-12	
+233	0-25	
+234	1-31	
+240	9-17	
+242	0-21	
+243	2-19	
+244	1-24	uaz:CL:0002608
+246	13-24	
+247	2-6	
+248	0-18	tissuelist:TS-0592
+249	0-28	
+250	10-23	
+251	7-13	
+252	4-10	
+253	5-12	
+255	9-20	
+260	0-48	
+263	3-28	
+264	0-13	tissuelist:TS-0161,tissuelist:TS-0564
+266	0-4	tissuelist:TS-0614
+267	2-15	tissuelist:TS-0614
+268	9-16	
+270	21-28	
+271	5-21	
+272	2-12	
+273	0-14	
+274	4-14	
+282	1-19	
+283	0-18	tissuelist:TS-0417
+284	4-11	
+301	2-19	

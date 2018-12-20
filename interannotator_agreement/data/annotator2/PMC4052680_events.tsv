@@ -1,0 +1,122 @@
+0	0-14	
+1	1-64	
+2	6-21	
+3	0-21	cellosaurus:CVCL_0045
+9	28-40	uaz:CL:0000255
+10	1-4	uaz:CL:0000255
+11	0-32	uaz:CL:0000255
+12	1-16	uaz:CL:0000255
+13	0-17	uaz:CL:0000255
+13	20-35	uaz:CL:0000255
+15	0-15	uaz:CL:0000255
+17	3-27	uaz:CL:0000255
+19	15-39	tissuelist:TS-0067,taxonomy:10090
+22	22-32	cellosaurus:CVCL_0030
+25	3-12	taxonomy:9606,tissuelist:TS-0455
+27	2-12	taxonomy:10116
+27	24-36	
+28	2-21	
+29	0-38	uaz:CL:0000359
+34	22-43	
+36	5-23	
+68	0-6	
+71	0-4	
+104	0-13	
+105	0-12	
+111	13-16	
+112	2-22	
+113	11-13	
+114	1-7	
+119	0-6	
+120	8-27	taxonomy:9606
+121	8-15	
+121	31-33	
+122	2-12	
+123	0-9	
+125	15-33	
+126	3-18	
+128	4-35	taxonomy:9606
+133	0-6	
+134	15-18	
+134	37-39	
+135	9-19	
+135	41-43	
+136	7-27	
+137	0-11	
+138	5-7	
+142	12-17	cellosaurus:CVCL_0045
+143	3-60	cellosaurus:CVCL_0045
+144	0-37	cellosaurus:CVCL_0045
+145	1-18	cellosaurus:CVCL_0045
+146	0-12	
+147	23-32	
+148	9-41	manual:alpha1-expressing-cells
+149	11-40	manual:alpha2-expressing-cells
+152	4-16	
+153	0-13	
+154	3-9	
+154	30-35	
+155	0-40	
+156	0-11	
+157	3-17	tissuelist:TS-0614,cellosaurus:CVCL_1220
+158	10-15	cellosaurus:CVCL_1220
+159	3-42	cellosaurus:CVCL_1220
+160	0-42	cellosaurus:CVCL_1220
+161	0-12	
+162	3-12	
+164	2-20	tissuelist:TS-0417,cellosaurus:CVCL_1169
+165	3-24	uaz:CL:2000042,uaz:CVCL_9115,taxonomy:10090
+166	1-11	
+167	14-44	
+168	10-33	cellosaurus:CVCL_1169
+170	2-26	
+171	7-23	
+174	0-23	cellosaurus:CVCL_1169
+175	15-25	
+175	30-38	
+177	6-41	tissuelist:TS-0591,tissuelist:TS-0417,cellosaurus:CVCL_0419,cellosaurus:CVCL_2219
+178	1-8	
+179	7-14	
+188	15-25	
+190	24-34	
+192	5-21	
+192	45-50	
+194	7-15	taxonomy:10116
+199	12-14	
+200	19-22	
+200	104-116	cellosaurus:CVCL_0045
+201	8-11	
+201	13-15	
+201	32-39	taxonomy:9606
+203	1-15	taxonomy:9606
+204	6-8	
+204	17-27	
+204	37-39	
+204	53-56	
+205	4-21	taxonomy:9606
+207	10-13	
+208	16-60	taxonomy:9606
+211	13-29	cellosaurus:CVCL_0045
+211	38-41	
+212	6-14	
+214	18-37	cellosaurus:CVCL_1220
+216	5-34	
+218	15-24	taxonomy:9606
+219	15-22	tissuelist:TS-0591,tissuelist:TS-0417
+219	31-38	
+220	10-45	taxonomy:9606
+225	17-21	cellosaurus:CVCL_0336
+226	11-20	
+230	17-21	
+232	6-10	
+233	0-16	
+235	9-12	taxonomy:10116
+235	18-21	taxonomy:10116
+236	13-16	
+237	13-15	
+238	1-11	
+239	5-8	
+239	21-29	
+242	23-37	taxonomy:9606
+243	9-21	taxonomy:9606
+245	1-16	

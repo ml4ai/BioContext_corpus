@@ -1,0 +1,106 @@
+1	1-13	
+7	2-16	
+8	5-11	
+9	0-11	
+11	1-25	manual:intracellular-compartments
+12	0-31	go:GO:0031982
+14	0-23	go:GO:0005829,go:GO:0016020
+15	0-31	go:GO:0016020
+16	0-20	go:GO:0016020
+17	3-30	
+19	4-18	manual:Golgi
+20	1-34	go:GO:0009986
+21	0-22	taxonomy:4932
+23	0-29	
+25	2-21	manual:intracellular
+26	0-25	go:GO:0009986
+27	0-34	go:GO:0009986,manual:transmembrane
+30	1-51	uaz:CL:0000255,uaz:CL:0000165,taxonomy:10090
+31	11-15	
+32	2-16	manual:Drosophila
+33	0-21	manual:Drosophila,manual:head,tissuelist:TS-1039,tissuelist:TS-0904
+92	5-14	tissuelist:TS-0309
+93	7-21	tissuelist:TS-0309
+100	2-32	
+102	2-23	
+105	0-8	
+107	2-27	
+115	1-31	
+122	0-22	manual:Drosophila
+132	1-34	
+134	0-14	
+135	0-31	
+136	0-30	
+137	1-32	
+138	1-29	
+139	7-17	
+140	0-18	
+141	6-20	
+142	1-44	
+143	3-25	
+144	2-20	
+144	25-42	
+150	1-32	
+152	5-27	
+154	7-25	
+155	2-10	
+156	2-11	
+157	0-29	manual:Drosophila
+158	3-17	manual:Drosophila
+159	0-5	manual:Drosophila
+160	3-27	manual:Drosophila
+162	3-10	manual:Drosophila
+164	4-10	manual:Drosophila
+166	6-16	
+169	1-17	
+170	3-21	manual:head,tissuelist:TS-1039
+171	1-33	
+173	1-39	
+176	8-28	
+177	1-27	
+178	0-11	
+181	0-39	
+182	0-29	
+185	0-46	
+189	1-21	
+190	1-18	
+191	3-50	go:GO:0009986
+192	4-20	
+193	0-14	manual:Drosophila
+194	0-11	
+195	13-41	
+196	3-30	manual:Golgi
+197	3-55	go:GO:0009986
+198	6-20	go:GO:0009986
+199	3-37	go:GO:0005886
+200	1-24	go:GO:0009986
+201	4-9	
+202	3-22	
+203	1-26	
+204	0-20	go:GO:0009986
+205	1-35	manual:Golgi
+208	24-32	manual:Drosophila
+209	3-11	manual:Drosophila,uberon:UBERON:0000069
+211	1-26	
+212	1-26	
+215	1-15	
+216	0-21	
+217	3-42	
+218	3-18	
+219	4-24	manual:Drosophila
+221	18-25	
+222	0-5	
+226	6-41	
+228	0-20	
+229	0-12	
+230	4-12	
+232	11-18	
+233	2-26	tissuelist:TS-1122,manual:leg,tissuelist:TS-0309
+234	1-30	uniprot:SL-0039,taxonomy:4932
+238	11-48	go:GO:0009986
+239	1-38	manual:Golgi
+240	1-10	
+241	6-20	tissuelist:TS-0309
+243	0-20	
+244	12-20	
+245	16-28	

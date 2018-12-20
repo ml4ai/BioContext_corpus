@@ -1,0 +1,33 @@
+13	4-19	
+14	3-44	manual:ovarian,tissuelist:TS-0595
+15	0-13	tissuelist:TS-1223
+25	9-28	
+26	16-28	tissuelist:TS-1227
+56	21-39	tissuelist:TS-0591
+57	3-44	tissuelist:TS-0472,tissuelist:TS-1222,tissuelist:TS-0652,tissuelist:TS-0160
+60	25-35	tissuelist:TS-0417,tissuelist:TS-0095
+60	36-48	tissuelist:TS-1102,tissuelist:TS-1090
+107	19-31	tissuelist:TS-1227
+108	1-21	tissuelist:TS-1227
+109	1-6	
+111	2-13	tissuelist:TS-1227
+117	1-28	tissuelist:TS-0585,tissuelist:TS-0547
+118	2-20	tissuelist:TS-0585
+119	0-18	
+121	7-34	
+124	2-23	tissuelist:TS-0571
+127	1-23	tissuelist:TS-0547,tissuelist:TS-0160
+128	5-28	tissuelist:TS-1227
+152	2-41	taxonomy:10566,taxonomy:12721,taxonomy:10376
+153	18-39	uaz:CL:0000236,uaz:CL:0000066
+154	0-11	tissuelist:TS-0547
+155	0-22	tissuelist:TS-1221,tissuelist:TS-0591,tissuelist:TS-1223
+156	1-22	uaz:CL:0000235,uaz:CL:0000084,uaz:CL:0000451,taxonomy:12721,uberon:UBERON:0002405
+157	0-16	tissuelist:TS-1221,taxonomy:12721,tissuelist:TS-0585
+159	51-64	uberon:UBERON:0002390
+165	6-13	tissuelist:TS-0160
+185	3-33	tissuelist:TS-0591
+198	1-31	tissuelist:TS-0160
+207	8-35	tissuelist:TS-1227
+209	1-22	uaz:CL:0002563
+214	0-61	go:GO:0019031,uaz:CL:0000084,go:GO:0016020

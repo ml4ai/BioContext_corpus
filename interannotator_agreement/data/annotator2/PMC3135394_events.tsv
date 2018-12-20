@@ -1,0 +1,69 @@
+12	6-29	uaz:CL:0000365,manual:sea-urchin
+13	5-34	uberon:UBERON:3010324,manual:sea-urchin
+15	8-27	
+24	4-35	manual:Mitochondria
+28	11-34	
+30	4-20	
+31	12-19	
+32	6-19	
+35	1-12	
+36	0-20	
+37	0-15	
+38	3-28	
+44	10-27	go:GO:0016020
+46	0-10	go:GO:0016020
+49	1-5	taxonomy:7955
+50	10-16	
+51	25-37	go:GO:0009986,go:GO:0005886
+53	9-18	
+55	18-26	manual:Mitochondria
+56	7-22	manual:Mitochondria
+57	7-17	manual:Mitochondria
+58	9-29	manual:Mitochondria
+60	8-34	
+61	6-26	
+62	4-16	
+63	12-27	
+65	0-8	
+66	8-13	taxonomy:10090
+67	4-9	
+68	6-13	
+74	9-14	
+74	16-23	
+75	4-23	
+79	6-12	
+79	13-16	
+80	6-26	
+82	4-18	
+86	7-28	tissuelist:TS-0445
+87	19-30	tissuelist:TS-0445
+88	3-29	tissuelist:TS-0445
+90	3-24	go:GO:0009986
+92	0-30	
+93	5-13	go:GO:0005634
+95	1-26	manual:cytoplasmic
+96	4-9	manual:cytoplasmic
+97	0-4	
+97	7-14	
+101	11-21	
+104	3-37	manual:mammalian
+105	6-13	manual:mammalian
+106	21-38	taxonomy:10090
+118	10-25	
+122	3-19	manual:mammalian
+123	2-13	
+125	17-32	taxonomy:4932
+133	21-29	
+137	8-18	
+138	1-8	
+138	40-44	
+138	46-51	
+139	9-18	
+141	8-20	manual:pancreatic-beta-cells
+142	8-19	go:GO:0009986
+143	1-23	
+145	9-28	taxonomy:10090
+146	1-9	taxonomy:10090
+169	5-16	
+169	22-33	
+173	1-21	taxonomy:10090

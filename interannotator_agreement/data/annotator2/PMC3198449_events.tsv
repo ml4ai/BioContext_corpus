@@ -1,0 +1,59 @@
+1	0-19	
+2	0-20	
+3	13-24	
+11	1-11	go:GO:0005741,manual:vertebrates
+12	0-21	manual:vertebrates
+13	5-16	manual:vertebrates
+13	22-32	manual:vertebrates
+15	1-19	manual:vertebrates
+15	24-32	manual:vertebrates
+19	0-29	manual:vertebrates
+20	1-8	manual:vertebrates
+21	8-29	manual:vertebrates
+22	0-18	manual:vertebrates
+24	3-25	go:GO:0005741,manual:vertebrates
+26	4-27	go:GO:0005741,manual:vertebrates
+26	30-32	manual:mitochondria,manual:vertebrates
+27	4-12	manual:vertebrates
+28	3-13	manual:vertebrates
+29	4-7	manual:vertebrates
+29	18-19	manual:vertebrates
+32	10-19	manual:vertebrates
+39	3-12	
+39	28-32	taxonomy:9606
+40	1-6	manual:vertebrates
+41	1-8	manual:vertebrates
+41	20-25	manual:vertebrates
+43	10-13	manual:vertebrates
+83	7-10	manual:vertebrates
+83	12-14	manual:vertebrates
+83	16-18	manual:vertebrates
+83	20-22	
+83	24-26	manual:vertebrates
+100	9-23	manual:vertebrates
+103	8-11	manual:vertebrates
+103	37-42	manual:vertebrates
+105	15-19	manual:vertebrates
+111	1-6	manual:vertebrates
+112	2-8	manual:vertebrates
+113	12-21	manual:vertebrates
+114	13-22	manual:vertebrates
+117	7-31	manual:vertebrates
+120	2-7	manual:vertebrates
+132	3-8	manual:vertebrates
+151	13-19	manual:vertebrates
+161	16-19	manual:vertebrates
+176	13-28	manual:vertebrates
+180	2-12	manual:vertebrates
+182	20-24	manual:vertebrates
+183	2-7	manual:vertebrates
+195	2-13	manual:vertebrates
+199	1-11	manual:vertebrates
+217	3-10	manual:vertebrates
+222	17-20	manual:vertebrates
+222	26-29	manual:vertebrates
+226	6-21	
+228	4-12	manual:vertebrates
+236	20-25	manual:vertebrates
+238	2-19	manual:vertebrates
+245	9-16	manual:vertebrates

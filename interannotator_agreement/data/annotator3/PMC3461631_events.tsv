@@ -1,0 +1,183 @@
+6	5-31	tissuelist:TS-0416
+7	4-11	
+15	3-28	
+18	23-40	
+61	0-49	tissuelist:TS-0417
+62	0-24	tissuelist:TS-0417
+65	1-18	uniprot:SL-0039
+66	1-19	
+67	1-29	
+68	0-18	
+69	1-35	tissuelist:TS-0417
+70	0-11	
+71	1-21	tissuelist:TS-0416
+72	0-20	
+73	3-33	tissuelist:TS-0417
+75	7-11	
+76	2-28	
+78	0-13	tissuelist:TS-0417
+79	3-12	
+80	3-60	
+81	0-14	tissuelist:TS-0417,tissuelist:TS-0416
+82	10-16	
+83	1-14	go:GO:0016020
+84	0-6	
+85	0-19	go:GO:0005634
+86	2-12	
+87	0-10	cellosaurus:CVCL_0022
+88	1-18	
+89	0-21	
+90	1-9	
+91	3-36	
+93	0-7	
+94	6-32	
+95	7-24	
+96	0-34	
+97	1-21	
+98	3-18	tissuelist:TS-0416
+99	1-30	
+100	2-33	
+101	2-22	tissuelist:TS-0416
+102	5-68	tissuelist:TS-0417,cellosaurus:CVCL_0022,tissuelist:TS-0416,cellosaurus:CVCL_2219
+103	3-19	tissuelist:TS-0417
+104	2-18	tissuelist:TS-0417
+105	1-26	tissuelist:TS-0416
+106	0-22	
+107	3-24	tissuelist:TS-0417
+111	0-22	
+112	2-22	
+113	1-28	
+114	1-39	
+115	5-23	
+116	7-27	
+117	4-14	tissuelist:TS-0417
+118	0-20	tissuelist:TS-0417
+128	7-31	tissuelist:TS-0416
+129	6-16	tissuelist:TS-0416
+130	1-24	tissuelist:TS-0416
+131	1-26	tissuelist:TS-0416
+132	0-22	
+133	6-21	tissuelist:TS-0416
+145	6-36	
+148	1-35	tissuelist:TS-0571
+149	5-23	
+150	0-10	tissuelist:TS-0568,tissuelist:TS-0591
+150	18-33	tissuelist:TS-0614,tissuelist:TS-0568,tissuelist:TS-0595
+151	3-33	tissuelist:TS-0614,tissuelist:TS-0592
+152	0-19	tissuelist:TS-0278
+153	1-26	
+154	0-10	tissuelist:TS-1224
+155	1-13	tissuelist:TS-0569
+156	2-16	tissuelist:TS-0278,tissuelist:TS-0568,tissuelist:TS-0592
+158	0-16	tissuelist:TS-1249
+159	3-10	tissuelist:TS-0278
+160	0-15	
+161	4-7	
+162	1-19	
+163	5-31	tissuelist:TS-0739
+164	0-14	
+165	0-21	
+166	4-24	
+167	4-17	tissuelist:TS-0591
+168	0-8	tissuelist:TS-0859
+169	0-25	tissuelist:TS-0614
+171	0-11	
+171	18-29	tissuelist:TS-0400
+172	6-35	tissuelist:TS-0614
+173	4-30	
+174	1-28	
+175	8-34	tissuelist:TS-0572
+176	13-39	tissuelist:TS-0739
+179	3-19	tissuelist:TS-0416
+180	4-31	tissuelist:TS-0417
+181	3-16	tissuelist:TS-0416
+182	1-20	tissuelist:TS-0416
+184	2-29	tissuelist:TS-0416,uaz:UA-CLine-5317
+185	0-23	tissuelist:TS-0416
+186	7-27	
+187	0-11	
+188	10-20	tissuelist:TS-0416
+189	1-20	
+190	5-39	
+191	3-30	tissuelist:TS-0416,cellosaurus:CVCL_0021
+192	2-20	tissuelist:TS-0416
+193	1-11	
+194	2-32	tissuelist:TS-0417
+195	7-18	
+196	12-18	tissuelist:TS-0416
+197	2-17	tissuelist:TS-0416
+198	1-16	tissuelist:TS-0416
+199	1-19	
+204	3-26	tissuelist:TS-0568,tissuelist:TS-0591,tissuelist:TS-0416
+205	0-9	manual:meningiomas,tissuelist:TS-0417
+207	1-42	
+210	0-4	
+211	0-12	
+212	0-20	
+213	0-9	
+214	1-65	uaz:CL:0000540,tissuelist:TS-0417
+215	6-14	tissuelist:TS-0416
+216	11-28	tissuelist:TS-0417
+218	0-3	
+219	0-26	
+220	3-27	
+221	8-26	tissuelist:TS-0416
+222	0-38	go:GO:0005829,go:GO:0016020
+223	1-34	tissuelist:TS-0416
+224	5-14	
+226	6-33	
+227	0-33	go:GO:0015629
+228	2-24	
+229	3-14	
+230	6-14	
+231	8-36	
+232	8-18	
+233	0-25	
+234	3-31	
+235	6-29	
+237	0-4	
+240	2-18	
+241	1-18	
+242	0-20	
+243	2-19	
+244	1-24	uaz:CL:0002608
+245	3-25	go:GO:0030424
+246	4-24	tissuelist:TS-0416
+247	2-14	
+248	0-18	tissuelist:TS-0592
+249	0-28	
+250	10-32	
+251	1-13	
+252	20-37	tissuelist:TS-0417
+253	5-27	uaz:CL:0002609
+254	2-18	
+255	9-20	
+256	0-29	tissuelist:TS-0417
+260	0-48	
+262	1-12	
+263	3-28	
+264	0-38	tissuelist:TS-0161,tissuelist:TS-0564
+266	0-20	
+267	2-15	
+268	9-16	
+269	2-23	tissuelist:TS-0614
+270	4-28	
+271	8-21	
+272	0-20	
+273	0-14	
+274	4-14	
+275	1-44	tissuelist:TS-0592
+278	4-14	tissuelist:TS-0416
+282	1-25	
+283	0-31	tissuelist:TS-0417
+284	4-18	tissuelist:TS-0416
+285	0-18	
+286	0-34	tissuelist:TS-0417,tissuelist:TS-0416
+287	0-33	tissuelist:TS-0416
+288	2-17	tissuelist:TS-0614
+289	0-18	tissuelist:TS-0614
+290	1-16	
+291	1-20	
+292	5-15	tissuelist:TS-0614,tissuelist:TS-0416
+299	2-50	
+301	2-19	
