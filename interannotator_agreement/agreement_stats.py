@@ -36,7 +36,7 @@ def main():
     # =-=-=-=
     # Config
     # =-=-=-=
-    data_path = "data"
+    data_path = os.path.normpath("../corpus_data")
     # Annotator IDs -- Should also be sub-folders in the data folder
     annotators = ["annotator1", "annotator2", "annotator3"]
     # annotator3 seems to have a lot of unique events:
