@@ -33,7 +33,7 @@ In a format similar to the _events_ file, this file contains the context mention
 
 The first column represents the __line number__ of the full text. The second column represents the __word interval__ of the the annotated event in the line and the third column is the _context type_ of the word. If the word is human, then the context type would be _taxonomy:9606_.
 
-## Grouding
+## Grounding
 
 The content of this file is a list with all the _context mention types_ detected by REACH. Not all those context types will be associated to a specific event, just a subset of those.
 
